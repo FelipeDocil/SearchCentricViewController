@@ -6,6 +6,6 @@ This is just a beta project, if you want to use you must download and add to you
 
 # TODO
 
-[] Create Datasource to customize with contents
-[] Create Tests
-[] Add to Cocoapods
+- [ ] Create Datasource to customize with contents
+- [ ] Create Tests
+- [ ] Add to Cocoapods
